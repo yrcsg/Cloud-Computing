@@ -129,6 +129,7 @@ public class RDS {
 	}
 	
 	
+// The following is used to test RDS
 	
 //	public static void main(String args[]) throws SQLException{
 //		Test t=new Test();

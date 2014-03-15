@@ -32,7 +32,7 @@
 
 <img src="1.gif"/>
 <% 		 request.getAttribute("name");
-		 out.print(request.getAttribute("videoname"));
+		// out.print(request.getAttribute("videoname"));
 		 List_object prt = new List_object();
          String bucketName=prt.get_bucketName();
          
